@@ -6,10 +6,19 @@
 
 <h2>Imagens de exemplo do projeto:</h2>
 
-<div style="display: flex; justify-content: center; margin-bottom: 32px;">
+<div margin-bottom="32" style="display: flex; justify-content: center; margin-bottom: 32px;">
 <img src="https://i.imgur.com/4EOLvHp.png" height="280px">
 <img src="https://i.imgur.com/KB4nN68.png" width="400px">
 </div>
+
+<h3 display="inline">Tecnologias utilizadas</h3>
+<ul>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>SQLite3</li>
+  <li>React.js</li>
+  <li>React Native</li>
+</ul>
 
 <h3>Não se esqueça que para poder rodar o projeto, você terá que configurar os IPs de acordo com a sua rede local!</h3>
 
