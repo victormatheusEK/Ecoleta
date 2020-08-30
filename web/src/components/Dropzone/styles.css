@@ -1,0 +1,35 @@
+.dropzone {
+  height: 256px;
+  margin-top: 32px;
+  background-color: #bbe9f0;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 32px;
+}
+
+.dropzone p {
+  display: flex;
+  flex-flow: column;
+  font-size: 16pt;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: dashed;
+  background-color: inherit;
+  height: 200px;
+  width: 600px;
+}
+
+.uploadbt {
+  color: green;
+}
+
+.dropzone img {
+  width: auto;
+  max-width: 600px;
+  height: 256px;
+  max-height: 256px;
+  border-radius: 20px;
+}

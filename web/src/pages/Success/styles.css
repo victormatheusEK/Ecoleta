@@ -1,0 +1,26 @@
+div#success-message {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #261142;
+}
+
+div#voltar {
+  position: fixed;
+  top: 30px;
+  left: 30px;
+}
+
+div#voltar a {
+  color: white;
+}
+
+section#sucesso h1#checkcircle {
+  font-size: 30px;
+}
+
+section#sucesso h1 {
+  color: white;
+}
